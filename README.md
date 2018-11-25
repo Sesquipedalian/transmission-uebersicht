@@ -1,9 +1,7 @@
 # Transmission
+An [Übersicht](http://tracesof.net/uebersicht) widget that lets you monitor a remote instance of the [Transmission BitTorrent client](https://transmissionbt.com) using its standard web interface.
 
-## Description
-This widget lets you monitor a remote instance of the [Transmission BitTorrent client](https://transmissionbt.com) using its standard web interface.
-
-## Setup instructions
+## Instructions
 1. Edit transmission.coffee to set the `url` variable to the URL of your Tranmission client's web interface.
 2. If you have set your Transmission web interface to require a password:
    1. Visit it in Safari and save the password in your keychain.
