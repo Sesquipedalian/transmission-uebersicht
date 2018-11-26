@@ -22,9 +22,9 @@ render: () -> """
 
 style: """
 	top: 0px
-	right: calc(23% - 320px)
-	width: 640px
-	height: 480px
+	right: calc(30% - 300px)
+	width: 600px
+	height: 450px
 
 	box-shadow: 3px 3px 10px rgba(0,0,0,0.2)
 	border: 1px solid rgba(0,0,0,0.2)
