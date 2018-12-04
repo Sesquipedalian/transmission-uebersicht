@@ -15,3 +15,8 @@ If the prompt does not appear, you can manually grant Übersicht permission to a
 1. Open the Keychain Access application.
 2. Find and open the keychain item that holds the password you just saved.
 3. Add Übersicht to the list of allowed applications in the keychain item's Access Control list.
+
+## License
+This work is released under the [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/):
+
+To the extent possible under law, the author has waived all copyright and related or neighboring rights to the software.
