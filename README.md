@@ -10,7 +10,8 @@ An [Übersicht](http://tracesof.net/uebersicht) widget that lets you monitor an 
 	2. Refresh this widget in Übersicht.
 	3. When prompted, allow Übersicht to access the keychain item.
 
-If the prompt does not appear, you can manually grant Übersicht permission to access the keychain item:
+## Troubleshooting
+If the prompt to allow Übersicht to access the keychain item does not appear as expected, you can manually grant Übersicht the necessary permission:
 
 1. Open the Keychain Access application.
 2. Find and open the keychain item that holds the password you just saved.
