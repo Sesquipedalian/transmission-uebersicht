@@ -1,5 +1,5 @@
 # Transmission
-An [Übersicht](http://tracesof.net/uebersicht) widget that lets you monitor an instance of the [Transmission BitTorrent client](https://transmissionbt.com) using its standard web interface.
+An [Übersicht](http://tracesof.net/uebersicht) widget that lets you monitor and control an instance of the [Transmission BitTorrent client](https://transmissionbt.com) using its standard web interface.
 
 ![Screenshot](screenshot.png)
 
@@ -9,6 +9,7 @@ An [Übersicht](http://tracesof.net/uebersicht) widget that lets you monitor an 
 	1. Visit it in Safari and save the password in your keychain.
 	2. Refresh this widget in Übersicht.
 	3. When prompted, allow Übersicht to access the keychain item.
+3. To control Transmission, enable and use the Interaction Shortcut setting in Übersicht's preferences.
 
 ## Troubleshooting
 If the prompt to allow Übersicht to access the keychain item does not appear as expected, you can manually grant Übersicht the necessary permission:

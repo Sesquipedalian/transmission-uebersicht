@@ -1,6 +1,6 @@
 {
 	"name": "Transmission",
-	"description": "Monitor a Transmission client.",
+	"description": "Monitor and control a Transmission client.",
 	"author": "Sesquipedalian",
 	"email": "unmonitored@blackhole.io"
 }
