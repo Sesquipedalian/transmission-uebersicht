@@ -9,7 +9,7 @@ An [Übersicht](http://tracesof.net/uebersicht) widget that lets you monitor and
 	1. Visit it in Safari and save the password in your keychain.
 	2. Refresh this widget in Übersicht.
 	3. When prompted, allow Übersicht to access the keychain item.
-3. To control Transmission, enable and use the Interaction Shortcut setting in Übersicht's preferences.
+3. To control Transmission, enable and use the Interaction Shortcut in Übersicht's preferences.
 
 ## Troubleshooting
 If the prompt to allow Übersicht to access the keychain item does not appear as expected, you can manually grant Übersicht the necessary permission:
